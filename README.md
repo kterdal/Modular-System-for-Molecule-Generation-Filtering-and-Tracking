@@ -1,4 +1,4 @@
-# Mini‑TMR Project
+# Modular-System-for-Molecule-Generation-Filtering-and-Tracking
 
 A cloud‑native molecule registration system combining AI molecule generation, scoring, and registry with API + dashboard.
 
